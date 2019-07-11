@@ -1,5 +1,5 @@
 # smart-store-app
-
+https://github.com/StErMi/ui5con-app-vue
 ## Project setup
 ```
 npm install

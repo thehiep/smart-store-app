@@ -6,13 +6,12 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import "@ui5/webcomponents/dist/Button";
 
 export default {
   name: 'app',
-  components: {
-    HelloWorld
-  }
+  template: `<ui5-button>Hello world!</ui5-button>`,
+  data: function(){}
 }
 </script>
 
